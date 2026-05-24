@@ -1,24 +1,4 @@
 
-# OS2 Mini Project — PlayStation Multithreading
-
-
-
-This repository contains my solution to the Operating Systems 2 mini project.
-A single PlayStation console hosts three games — **Football (F)**, **Super Mario (SM)** and **Need for Speed (NFS)** — and players are modelled as POSIX threads competing for it.
-
-```
-.
-├── exercise1/main.c   # parallel thread creation (no sync)
-├── exercise2/main.c   # full synchronisation with semaphores
-└── README.md
-```
-
----
-
-
-
----
-
 ## Exercise 1 — Parallel player threads
 
 ### Goal
